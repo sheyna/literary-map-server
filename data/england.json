@@ -1,0 +1,169 @@
+[
+	{
+		"title": "Brontë Country",
+		"book": "Jane Eyre, Wuthering Heights ...",
+		"author": "Emily, Charlotte and Anne Brontë",
+		"thumb": "brontes-thumb.png",
+		"image": "brontes.png",
+		"positionTop": 30,
+		"positionLeft": 49,
+		"townName": "Haworth, West Yorkshire",
+		"bodyText": "Among the most famous literary families the Brontë sisters wrote some of the most beloved works in literature. The parsonage where they lived with their father and brother is now a museum. The family, with the exception of Anne is buried in the church's vault. The Brontë Waterfall nearby was a favorite site of the sisters."
+	},
+	{
+		"title": "A Romance of Exmoor",
+		"book": "Lorna Doone",
+		"author": "Richard Doddridge Blackmore",
+		"thumb": "lorna-doone-thumb.png",
+		"image": "lorna-doone.png",
+		"positionTop": 77,
+		"positionLeft": 27,
+		"townName":  "Porlock, Somerset",
+		"bodyText": "Porlock and Dulverton are the center of Lorna Doone Country. The Ship Inn in Portlock was well known to Coleridge, Wordsworth and Southery."
+	},
+	{
+		"title": "The Bard of Stratford-upon-Avon",
+		"book": "Hamlet, Romeo and Juliet, The Taming of the Shrew ..",
+		"author": "William Shakespeare",
+		"thumb": "shakespeare-thumb.png",
+		"image": "shakespeare.png",
+		"positionTop": 58,
+		"positionLeft": 50,
+		"townName":  "Stratford-upon-Avon, Warwickshire",
+		"bodyText": "Widely believed to be the greatest writer in the English language, William Shakespeare wrote some 39 plays, 154 sonnets and three long narrative poems. The building believed to be his birthplace is a museum. His wife Anne Hathaway's home is nearby. "
+	},
+	{
+		"title": "William Wordsworth's home",
+		"book": "The Prelude, Ode: Intimations of Immortality, Ode to Duty, My Heart Leaps Up",
+		"author": "William Wordsworth",
+		"thumb": "wordsworth-thumb.png",
+		"image": "wordsworth.png",
+		"positionTop": 20,
+		"positionLeft": 38,
+		"townName":  "Grassmere, Cumbria",
+		"bodyText": "Wordsworth wrote much of the poetry for which he is known as Dove Cottage near Grasmere. He lived here for 8 years with his sister, from 1799 to 1808."
+	},
+	{
+		"title": "Count Dracula Arrives in England",
+		"book": "Dracula",
+		"author": "Bram Stoker",
+		"thumb": "dracula-thumb.png",
+		"image": "dracula.png",
+		"positionTop": 22,
+		"positionLeft": 60,
+		"townName":  "Whitby, Yorkshire",
+		"bodyText": "The ruins of Whitby Abbey stand on the cliff of above the town of Whitby overlooking the North Sea. Inspired by its gothic atmosphere when he visited in 1890, Bram Stocker set parts of his novel around the area. His Count Dracula comes to Whitby when he first arrives in England."
+	},
+	{
+		"title": "London's Writers' Block",
+		"book": "numerous",
+		"author": "Henry James, Erskine Childers, T. S. Eliot, Somerset Maugham, Ian Fleming, George Elliot, Bram Stoker, Elizabeth Gaskell...",
+		"thumb": "cheyne-thumb.png",
+		"image": "cheyne.png",
+		"positionTop":72,
+		"positionLeft": 70,
+		"townName":  "Cheyne Row, Chelsea, London",
+		"bodyText": "This historic London 2-block street has been home to numerous authors. The Carlyle Mansions (number 24) has been nicknamed the 'Writers’ Block,' as it has been home to Henry James, Erskine Childers, T. S. Eliot, Somerset Maugham, Ian Fleming and other noted authors. Other authors have lived near by. George Elliot spent the last three weeks of her life at number 4. Bram Stoker lived at number 27. And Elizabeth Gaskell was born at number 93."
+	},
+	{
+		"title": "Romance in the English Civil War",
+		"book": "Peveril of the Peak",
+		"author": "Sir Walter Scott",
+		"thumb": "peveril-peak-thumb.png",
+		"image": "peveril-peak.png",
+		"positionTop": 37,
+		"positionLeft": 52,
+		"townName":  "Castleton, Derbyshire",
+		"bodyText": "Now a ruins, this 11th-century castle, became the setting of one of Sir Walter Scott's Waverley novels (a series that includes Ivanhoe)."
+	},
+	{
+		"title": "Visit's Gaskell's Cranford",
+		"book": "Cranford",
+		"author": "Elizabeth Gaskell",
+		"positionTop": 40,
+		"positionLeft": 46,
+		"townName":  "Knutsford, Cheshire",
+		"bodyText": "Elizabeth Gaskell's charming portrait of village life in the 19th century was based on her own childhood home of Knutsford."
+	},
+	{
+		"title": "Elizabeth Gaskell's Home",
+		"book": "Mary Barton, North and South, Cranford, Wives and Daughters",
+		"author": "Elizabeth Gaskell",
+		"positionTop": 38,
+		"positionLeft": 48,
+		"townName":  "Manchester",
+		"bodyText": "Gaskell's historic home was restored in 2014. It is now a museum to the author and her times."
+	},
+	{
+		"title": "Jane Austen's Home",
+		"book": "Pride and Prejudice, Sense and Sensibility, Emma, Persuasion",
+		"author": "Jane Austen",
+		"positionTop": 78,
+		"positionLeft": 62,
+		"townName":  "Chawton, Hampshire",
+		"bodyText": "Jane Austen spent the last eight years of her life at this home that is now a museum."
+	},
+	{
+		"title": "Tolkien's Old Forest",
+		"book": "Lord of the Rings",
+		"author": "J.R.R. Tolkien",
+		"positionTop": 55,
+		"positionLeft": 49,
+		"townName":  "Moseley, Worcestershire",
+		"bodyText": "Moseley Bog is a woodland park in Moseley near Birmingham. J.R.R. Tolkien lived nearby as a boy. It is believed to have inspired the Old Forest in Middle Earth."
+	},
+	{
+		"title": "Birthplace of Charles Dickens",
+		"book": "Great Expectations, David Copperfield, Oliver Twist, A Tale of Two Cities ...",
+		"author": "Charles Dickens",
+		"positionTop": 83,
+		"positionLeft": 62,
+		"townName":  "Landport, Portsmouth, Hampshire",
+		"bodyText": "The house where the famed novelist was born is now a museum. It is furnished in the Regency style popular at the time of his birth iin 1812."
+	},
+	{
+		"title": "Hardy's Cottage",
+		"book": "Far from the Madding Crowd, The Mayor of Casterbridge, Tess of the d'Urbervilles, and Jude the Obscure ",
+		"author": "Thomas Hardy",
+		"positionTop": 85,
+		"positionLeft": 45,
+		"townName":  "Dorchester, Dorset",
+		"bodyText": "Thomas Hardy was born in a cottage outside Dorchester. He would later fictionalize Dorchester as the town of Casterbridge in his novel 'The Mayor of Casterbridge.' Hardy set most of his writing in a county he called Wessex. Hardy's Wessex encompassed the counties of Dorset, Wiltshire, Somerset, Devon, Hampshire and much of Berkshire."
+	},
+	{
+		"title": "Jamaica Inn",
+		"book": "Jamaica Inn",
+		"author": "Daphne du Maurier",
+		"positionTop": 87,
+		"positionLeft": 17,
+		"townName":  "Bolventor, Cornwall",
+		"bodyText": "Daphne du Maurier made this inn from 1750 famous in her 1936 novel of the same name. The inn has a historical association with smuggling."
+	},
+	{
+		"title": "Curious Affairs in Swindon",
+		"book": "The Curious Incident of the Dog in the Night-Time and The Eyre Affair",
+		"author": "Mark Haddon and Jasper Fforde",
+		"positionTop": 70,
+		"positionLeft": 53,
+		"townName":  "Swindon, Wiltshire",
+		"bodyText": "Christopher, the main character in Mark Haddon's 'The Curious Incident of the Dog in the Night-Time,' lives in Swindon. Swindon is also the location of Jasper Fforde's fantastical alternative 1985 of The Eyre Affair. The town planning office named streets in town after Fforde's characters. Look out for Thursday Street, Mycroft Road and Havisham Drive."
+	},
+	{
+		"title": "Where did Louisa Musgrove fall?",
+		"book": "Persuasion",
+		"author": "Jane Austen",
+		"positionTop": 85,
+		"positionLeft": 39,
+		"townName":  "The Cobb, Lyme Regis, Dorset",
+		"bodyText": "Jane Austen sent her characters in her novel 'Persuasion' to Lyme to visit friends. It is there that the character Louisa Musgrove is injured after a fall at The Cobb."
+	},
+	{
+		"title": "Deep in the Hundred Acre Wood",
+		"book": " Winnie-the-Pooh and The House at Pooh Corner",
+		"author": "A.A. Milne",
+		"positionTop": 80,
+		"positionLeft": 75,
+		"townName":  "Five Hundred Acre Wood, Ashdown Forest, Hartfield, East Sussex",
+		"bodyText": "From A.A. Milne's country home near Hartfield, the nearby Five Hundred Acre Wood would serve as the inspiration for the fictional wood inhabited by Winnie the Pooh and his friends. Many features from the stories can be found in this forest. An interpretive trail provides insights into this classic story."
+	}
+]
