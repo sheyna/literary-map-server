@@ -1,5 +1,6 @@
 [
 	{
+		"locationId": 1,
 		"title": "Brontë Country",
 		"book": "Jane Eyre, Wuthering Heights ...",
 		"author": "Emily, Charlotte and Anne Brontë",
@@ -11,6 +12,7 @@
 		"bodyText": "Among the most famous literary families the Brontë sisters wrote some of the most beloved works in literature. The parsonage where they lived with their father and brother is now a museum. The family, with the exception of Anne is buried in the church's vault. The Brontë Waterfall nearby was a favorite site of the sisters."
 	},
 	{
+		"locationId": 2,
 		"title": "A Romance of Exmoor",
 		"book": "Lorna Doone",
 		"author": "Richard Doddridge Blackmore",
@@ -22,8 +24,9 @@
 		"bodyText": "Porlock and Dulverton are the center of Lorna Doone Country. The Ship Inn in Portlock was well known to Coleridge, Wordsworth and Southery."
 	},
 	{
+		"locationId": 3,
 		"title": "The Bard of Stratford-upon-Avon",
-		"book": "Hamlet, Romeo and Juliet, The Taming of the Shrew ..",
+		"book": "Hamlet, Romeo and Juliet, The Taming of the Shrew ...",
 		"author": "William Shakespeare",
 		"thumb": "shakespeare-thumb.png",
 		"image": "shakespeare.png",
@@ -33,6 +36,7 @@
 		"bodyText": "Widely believed to be the greatest writer in the English language, William Shakespeare wrote some 39 plays, 154 sonnets and three long narrative poems. The building believed to be his birthplace is a museum. His wife Anne Hathaway's home is nearby. "
 	},
 	{
+		"locationId": 4,
 		"title": "William Wordsworth's home",
 		"book": "The Prelude, Ode: Intimations of Immortality, Ode to Duty, My Heart Leaps Up",
 		"author": "William Wordsworth",
@@ -44,6 +48,7 @@
 		"bodyText": "Wordsworth wrote much of the poetry for which he is known as Dove Cottage near Grasmere. He lived here for 8 years with his sister, from 1799 to 1808."
 	},
 	{
+		"locationId": 5,
 		"title": "Count Dracula Arrives in England",
 		"book": "Dracula",
 		"author": "Bram Stoker",
@@ -55,6 +60,7 @@
 		"bodyText": "The ruins of Whitby Abbey stand on the cliff of above the town of Whitby overlooking the North Sea. Inspired by its gothic atmosphere when he visited in 1890, Bram Stocker set parts of his novel around the area. His Count Dracula comes to Whitby when he first arrives in England."
 	},
 	{
+		"locationId": 6,
 		"title": "London's Writers' Block",
 		"book": "numerous",
 		"author": "Henry James, Erskine Childers, T. S. Eliot, Somerset Maugham, Ian Fleming, George Elliot, Bram Stoker, Elizabeth Gaskell...",
@@ -66,6 +72,7 @@
 		"bodyText": "This historic London 2-block street has been home to numerous authors. The Carlyle Mansions (number 24) has been nicknamed the 'Writers’ Block,' as it has been home to Henry James, Erskine Childers, T. S. Eliot, Somerset Maugham, Ian Fleming and other noted authors. Other authors have lived near by. George Elliot spent the last three weeks of her life at number 4. Bram Stoker lived at number 27. And Elizabeth Gaskell was born at number 93."
 	},
 	{
+		"locationId": 7,
 		"title": "Romance in the English Civil War",
 		"book": "Peveril of the Peak",
 		"author": "Sir Walter Scott",
@@ -77,6 +84,7 @@
 		"bodyText": "Now a ruins, this 11th-century castle, became the setting of one of Sir Walter Scott's Waverley novels (a series that includes Ivanhoe)."
 	},
 	{
+		"locationId": 8,
 		"title": "Visit's Gaskell's Cranford",
 		"book": "Cranford",
 		"author": "Elizabeth Gaskell",
@@ -86,6 +94,7 @@
 		"bodyText": "Elizabeth Gaskell's charming portrait of village life in the 19th century was based on her own childhood home of Knutsford."
 	},
 	{
+		"locationId": 9,
 		"title": "Elizabeth Gaskell's Home",
 		"book": "Mary Barton, North and South, Cranford, Wives and Daughters",
 		"author": "Elizabeth Gaskell",
@@ -95,6 +104,7 @@
 		"bodyText": "Gaskell's historic home was restored in 2014. It is now a museum to the author and her times."
 	},
 	{
+		"locationId": 10,
 		"title": "Jane Austen's Home",
 		"book": "Pride and Prejudice, Sense and Sensibility, Emma, Persuasion",
 		"author": "Jane Austen",
@@ -104,6 +114,7 @@
 		"bodyText": "Jane Austen spent the last eight years of her life at this home that is now a museum."
 	},
 	{
+		"locationId": 11,
 		"title": "Tolkien's Old Forest",
 		"book": "Lord of the Rings",
 		"author": "J.R.R. Tolkien",
@@ -113,6 +124,7 @@
 		"bodyText": "Moseley Bog is a woodland park in Moseley near Birmingham. J.R.R. Tolkien lived nearby as a boy. It is believed to have inspired the Old Forest in Middle Earth."
 	},
 	{
+		"locationId": 12,
 		"title": "Birthplace of Charles Dickens",
 		"book": "Great Expectations, David Copperfield, Oliver Twist, A Tale of Two Cities ...",
 		"author": "Charles Dickens",
@@ -122,6 +134,7 @@
 		"bodyText": "The house where the famed novelist was born is now a museum. It is furnished in the Regency style popular at the time of his birth iin 1812."
 	},
 	{
+		"locationId": 13,
 		"title": "Hardy's Cottage",
 		"book": "Far from the Madding Crowd, The Mayor of Casterbridge, Tess of the d'Urbervilles, and Jude the Obscure ",
 		"author": "Thomas Hardy",
@@ -131,6 +144,7 @@
 		"bodyText": "Thomas Hardy was born in a cottage outside Dorchester. He would later fictionalize Dorchester as the town of Casterbridge in his novel 'The Mayor of Casterbridge.' Hardy set most of his writing in a county he called Wessex. Hardy's Wessex encompassed the counties of Dorset, Wiltshire, Somerset, Devon, Hampshire and much of Berkshire."
 	},
 	{
+		"locationId": 14,
 		"title": "Jamaica Inn",
 		"book": "Jamaica Inn",
 		"author": "Daphne du Maurier",
@@ -140,6 +154,7 @@
 		"bodyText": "Daphne du Maurier made this inn from 1750 famous in her 1936 novel of the same name. The inn has a historical association with smuggling."
 	},
 	{
+		"locationId": 15,
 		"title": "Curious Affairs in Swindon",
 		"book": "The Curious Incident of the Dog in the Night-Time and The Eyre Affair",
 		"author": "Mark Haddon and Jasper Fforde",
@@ -149,6 +164,7 @@
 		"bodyText": "Christopher, the main character in Mark Haddon's 'The Curious Incident of the Dog in the Night-Time,' lives in Swindon. Swindon is also the location of Jasper Fforde's fantastical alternative 1985 of The Eyre Affair. The town planning office named streets in town after Fforde's characters. Look out for Thursday Street, Mycroft Road and Havisham Drive."
 	},
 	{
+		"locationId": 16,
 		"title": "Where did Louisa Musgrove fall?",
 		"book": "Persuasion",
 		"author": "Jane Austen",
@@ -158,6 +174,7 @@
 		"bodyText": "Jane Austen sent her characters in her novel 'Persuasion' to Lyme to visit friends. It is there that the character Louisa Musgrove is injured after a fall at The Cobb."
 	},
 	{
+		"locationId": 17,
 		"title": "Deep in the Hundred Acre Wood",
 		"book": " Winnie-the-Pooh and The House at Pooh Corner",
 		"author": "A.A. Milne",
